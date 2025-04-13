@@ -20,7 +20,7 @@
 
 ## 📌 Sobre ZenBot
 
-ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funciones principales son:
+ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funciones recientemente agregadas son:
 
 - Agregar o eliminar integrantes.
 - Abrir o cerrar grupos.
