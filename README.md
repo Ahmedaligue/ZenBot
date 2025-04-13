@@ -1,4 +1,4 @@
-
+<p align="center">
   <img src="./media/ZenBott.png" height="90px">
 </p>
 
@@ -31,9 +31,14 @@ ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funcion
 - Conexión mediante **código QR** (próximamente: emparejamiento por código).
 
 > Este bot aún está en desarrollo, por lo que puede presentar errores.  
-> Si querés colaborar o apoyar el proyecto, escribime:  
-> [![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/5493772455367)
+> Si querés colaborar o apoyar el proyecto, escribime directamente por WhatsApp:
 
+<p align="left">
+  <a href="https://wa.me/5493772455367" target="_blank">
+    <img alt="WhatsApp Contacto" height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png">
+    &nbsp;Chat directo con el creador
+  </a>
+</p>
 
 ---
 
@@ -47,7 +52,7 @@ termux-setup-storage
 git clone https://github.com/AxelDev09/ZenBot
 cd ZenBot
 yarn install
-node index.js
+npm start
 ```
 ## 🚀 Próximamente
 
