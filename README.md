@@ -5,8 +5,8 @@
 <h1 align="center">ZenBot</h1>
 
 <p align="center">
-  Un bot de WhatsApp para gestión de grupos, creado desde cero.<br>
-  Diseñado para Termux, auténtico, único y en constante evolución.
+  Un bot de WhatsApp creado desde cero.<br>
+  Aténtico, único y en constante evolución.
 </p>
 
 <p align="center">
