@@ -22,7 +22,7 @@
 
 ## 📌 Sobre ZenBot
 
-ZenBot fue creado con el objetivo de facilitar la administración de grupos en WhatsApp. Algunas de sus funciones principales son:
+ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funciones principales son:
 
 - Agregar o eliminar integrantes.
 - Abrir o cerrar grupos.
