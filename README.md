@@ -62,4 +62,3 @@ npm start
 - **Comandos de Descargas y Herramientas**
 - **Comandos para Administradores y Creadores**
 - **Juegos Variados**
-  Las implementaciones se estarán agregando de apoco.*
