@@ -34,7 +34,8 @@ ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funcion
 
 > Este bot aún está en desarrollo, por lo que puede presentar errores.  
 > Si querés colaborar o apoyar el proyecto, escribime:  
-> **+54 9 3772 455367**
+> [![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/WhatsApp_logo_2023.svg/1024px-WhatsApp_logo_2023.svg.png)](https://wa.me/5493772455367)
+
 
 ---
 
