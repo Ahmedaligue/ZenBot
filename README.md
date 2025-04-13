@@ -34,7 +34,7 @@ ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funcion
 
 > Este bot aún está en desarrollo, por lo que puede presentar errores.  
 > Si querés colaborar o apoyar el proyecto, escribime:  
-> [![WhatsApp](https://i.imgur.com/DoJ7bqv.png)](https://wa.me/5493772455367)
+> [![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/5493772455367)
 
 
 ---
