@@ -1,8 +1,4 @@
-# ZenBot
-<p align="center">
-  <a href="#">
-    <img title="ZenBot" src="https://img.shields.io/badge/¿Te gusta ZenBot? ¡Apoyá con una ⭐ y ayudá al proyecto a crecer! -brightgreen?colorA=%2300c853&colorB=%001b0d&style=for-the-badge">
-  </a><br>
+
   <img src="./media/ZenBott.png" height="90px">
 </p>
 
