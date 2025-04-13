@@ -62,3 +62,14 @@ npm start
 - **Comandos de Descargas y Herramientas**
 - **Comandos para Administradores y Creadores**
 - **Juegos Variados**
+
+⭐ ¿Te gusta ZenBot?
+
+Si te gustó el proyecto y querés apoyar su desarrollo, ¡dejá tu estrellita en GitHub!
+Cada estrella motiva a seguir mejorando y creando nuevas funciones.
+
+<p align="center">
+  <a href="https://github.com/AxelDev09/ZenBot/stargazers">
+    <img src="https://img.shields.io/github/stars/AxelDev09/ZenBot?style=social" alt="GitHub Stars">
+  </a>
+</p>
