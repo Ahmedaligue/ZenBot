@@ -50,3 +50,13 @@ cd ZenBot
 yarn install
 node index.js
 ```
+## 🚀 Próximamente
+
+¡ZenBot sigue evolucionando! Estamos trabajando en nuevas funcionalidades para hacer de tu experiencia aún más completa y divertida. Algunas de las mejoras que podrás disfrutar en futuras actualizaciones incluyen:
+
+- **Código de Emparejamiento**: Nueva opción para conectar tu cuenta de manera más fácil y rápida.
+- **Comandos de Descargas y Herramientas**: Agregaremos comandos útiles para facilitar aún más la gestión de tu grupo.
+- **Comandos para Administradores y Creadores**: Nuevas funcionalidades exclusivas para los administradores de grupo.
+- **Juegos Variados**: ¡Porque un grupo también debe divertirse! Comandos para disfrutar de juegos interactivos.
+
+Mantente al tanto de las actualizaciones para disfrutar de todas estas mejoras. ¡Estamos trabajando para hacer de ZenBot tu aliado perfecto en la gestión de grupos! 🔥
