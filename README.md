@@ -36,7 +36,7 @@ ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funcion
 <p align="left">
   <a href="https://wa.me/5493772455367" target="_blank">
     <img alt="WhatsApp Contacto" height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png">
-    &nbsp;Chat directo con el creador
+    &nbsp CONTACTO
   </a>
 </p>
 
