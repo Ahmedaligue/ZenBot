@@ -22,7 +22,7 @@
 
 ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funciones más destacadas son:
 
-- **Comandos para grupos** (agregar/eliminar integrantes, cerrar/abrir grupos, cambiar nombre o descripción).
+- **Comandos para grupos**
 - **Comandos exclusivos para el creador**.
 - **Juegos integrados** para pasar el rato.
 - Menú interactivo con interfaz amigable.
