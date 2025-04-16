@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./media/ZenBott.png" height="120px">
+  <img src="./media/Zenbott.png" height="120px">
 </p>
 
 <h1 align="center">ZenBot</h1>
