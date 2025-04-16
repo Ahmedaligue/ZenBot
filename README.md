@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./media/Zenbott.png" height="120px">
+  <img src="./media/Zenbott.png" height="250px">
 </p>
-
-<h1 align="center">ZenBot</h1>
 
 <p align="center">
   Un bot de WhatsApp creado desde cero.<br>
