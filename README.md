@@ -6,7 +6,7 @@
 
 <p align="center">
   Un bot de WhatsApp creado desde cero.<br>
-  Aténtico, único y en constante evolución.
+  Auténtico, único y en constante evolución.
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@
 
 ## 📌 Sobre ZenBot
 
-ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funciones recientemente agregadas son:
+ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funciones más destacadas son:
 
-- Agregar o eliminar integrantes.
-- Abrir o cerrar grupos.
-- Cambiar nombre o descripción del grupo.
+- **Comandos para grupos** (agregar/eliminar integrantes, cerrar/abrir grupos, cambiar nombre o descripción).
+- **Comandos exclusivos para el creador**.
+- **Juegos integrados** para pasar el rato.
 - Menú interactivo con interfaz amigable.
-- Lista clara de comandos.
-- Soporte multidispositivo (conexión en varios dispositivos).
-- Conexión mediante **código QR** (próximamente: emparejamiento por código).
+- Lista clara y ordenada de comandos.
+- Soporte multidispositivo.
+- Conexión mediante **código de emparejamiento**.
 
 > Este bot aún está en desarrollo, por lo que puede presentar errores.  
 > Si querés colaborar o apoyar el proyecto, escribime directamente por WhatsApp:
@@ -54,18 +54,18 @@ cd ZenBot
 yarn install
 npm start
 ```
+
 ## 🚀 Próximamente
 
 ¡ZenBot sigue evolucionando! Estamos trabajando en nuevas funcionalidades para hacer de tu experiencia aún más completa y divertida. Algunas de las mejoras que podrás disfrutar en futuras actualizaciones incluyen:
 
-- **Código de Emparejamiento**
-- **Comandos de Descargas y Herramientas**
-- **Comandos para Administradores y Creadores**
-- **Juegos Variados**
+- Más comandos útiles y divertidos.
+- Mejor rendimiento y estabilidad.
+- Integraciones extra con APIs y herramientas.
 
 ⭐ ¿Te gusta ZenBot?
 
-Si te gustó el proyecto y querés apoyar su desarrollo, ¡dejá tu estrellita en GitHub!
+Si te gustó el proyecto y querés apoyar su desarrollo, ¡dejá tu estrellita en GitHub!  
 Cada estrella motiva a seguir mejorando y creando nuevas funciones.
 
 <p align="center">
