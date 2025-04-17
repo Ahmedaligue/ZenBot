@@ -5,7 +5,7 @@ export default {
   tags: ['🎮 𝗝𝗨𝗘𝗚𝗢𝗦'],
   command: ['ppt'],
 
-  run: async (m, { args, prefix }) => {
+  run: async (m, { args }) => {
     const opciones = ['piedra', 'papel', 'tijera'];
     const resultados = {
       piedra: { gana: 'ᴛɪᴊᴇʀᴀ', pierde: 'ᴘᴀᴘᴇʟ' },
@@ -14,7 +14,7 @@ export default {
     };
 
     if (!args[0]) {
-      return m.reply(`*[ 🕹️ ] 𝐔𝐬𝐚́ 𝐞𝐥 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐚𝐬𝐢́::*\n*${prefix}ppt piedra*`);
+      return m.reply(`*[ 🕹️ ] 𝐔𝐬𝐚́ 𝐞𝐥 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐚𝐬𝐢́::*\n*/ppt piedra*`);
     }
 
     const userChoice = args[0].toLowerCase();
