@@ -5,7 +5,7 @@ export default {
   tags: ['🎮 𝗝𝗨𝗘𝗚𝗢𝗦'],
   command: ['ppt'],
 
-  run: async (m, { args, prefix, }) => {
+  run: async (m, { args, prefix }) => {
     const opciones = ['piedra', 'papel', 'tijera'];
     const resultados = {
       piedra: { gana: 'ᴛɪᴊᴇʀᴀ', pierde: 'ᴘᴀᴘᴇʟ' },
