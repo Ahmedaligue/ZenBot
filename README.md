@@ -44,7 +44,7 @@ ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funcion
 
 ```bash
 pkg update && pkg upgrade
-pkg install git nodejs ffmpeg imagemagick
+pkg install -y git nodejs ffmpeg imagemagick python
 pkg install yarn
 termux-setup-storage
 git clone https://github.com/AxelDev09/ZenBot
