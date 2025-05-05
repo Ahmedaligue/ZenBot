@@ -50,7 +50,7 @@ termux-setup-storage
 git clone https://github.com/AxelDev09/ZenBot
 cd ZenBot
 yarn install
-npm start
+yarn start
 ```
 
 ## 🚀 Próximamente
