@@ -21,10 +21,10 @@
 ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funciones más destacadas son:
 
 - **Comandos para grupos**
-- **Comandos exclusivos para el creador**.
-- **Juegos integrados** para pasar el rato.
-- Menú interactivo con interfaz amigable.
-- Lista clara y ordenada de comandos.
+- **Comandos para el creador**.
+- - **Comandos de descargas**.
+- **Juegos integrados** (para pasar el rato).
+- Menu-Lista clara y ordenada de comandos.
 - Soporte multidispositivo.
 - Conexión mediante **código de emparejamiento**.
 
@@ -55,11 +55,7 @@ yarn start
 
 ## 🚀 Próximamente
 
-¡ZenBot sigue evolucionando! Estamos trabajando en nuevas funcionalidades para hacer de tu experiencia aún más completa y divertida. Algunas de las mejoras que podrás disfrutar en futuras actualizaciones incluyen:
-
-- Más comandos útiles y divertidos.
-- Mejor rendimiento y estabilidad.
-- Integraciones extra con APIs y herramientas.
+¡ZenBot sigue evolucionando! Estamos trabajando en nuevas funcionalidades para hacer de tu experiencia aún más completa y divertida.
 
 ⭐ ¿Te gusta ZenBot?
 
