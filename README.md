@@ -43,10 +43,10 @@ ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funcion
 ## ⚙️ Instalación (en Termux)
 
 ```bash
+termux-setup-storage
 pkg update && pkg upgrade
 pkg install -y git nodejs ffmpeg imagemagick python
 pkg install yarn
-termux-setup-storage
 git clone https://github.com/AxelDev09/ZenBot
 cd ZenBot
 yarn install
