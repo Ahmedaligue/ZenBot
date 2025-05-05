@@ -23,6 +23,7 @@ ZenBot fue creado con el objetivo de facilitarte la vida. Las funciones integrad
 - **Comandos para grupos**
 - **Comandos para el creador**.
 - **Comandos de descargas**.
+- **Comandos de búsquedas**.
 - **Juegos integrados** (para pasar el rato).
 - Menu-Lista clara y ordenada de comandos.
 - Soporte multidispositivo.
