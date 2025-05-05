@@ -18,11 +18,11 @@
 
 ## 📌 Sobre ZenBot
 
-ZenBot fue creado con el objetivo de facilitarte la vida. Algunas de sus funciones más destacadas son:
+ZenBot fue creado con el objetivo de facilitarte la vida. Las funciones integradas son:
 
 - **Comandos para grupos**
 - **Comandos para el creador**.
-- - **Comandos de descargas**.
+- **Comandos de descargas**.
 - **Juegos integrados** (para pasar el rato).
 - Menu-Lista clara y ordenada de comandos.
 - Soporte multidispositivo.
