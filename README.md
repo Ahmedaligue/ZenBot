@@ -60,7 +60,7 @@ npm start
 ```bash
 rm -rf session
 ```
-## Si quietes instalar ZenBot en el directorio de tu dispositivo, nomás sigue estos pasos:
+## Si quieres instalar ZenBot en el directorio de tu dispositivo, nomás sigue estos pasos:
 
 Lo primero de lo primero. Necesitas darle permiso a termux con:
 ```bash
@@ -68,7 +68,7 @@ termux-setup-storage
 ```
 > Si por acaso ese comando no funciona, intenta darle los permisos manualmente (Permisos de acceso al directorio).
 
-## Instala las demas comando. Siempre dar [y] con enter.
+## Instala los demas comando. Siempre dar [y] con enter.
 
 ```bash
 pkg update && pkg upgrade
