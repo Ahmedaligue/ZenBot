@@ -51,7 +51,8 @@ pkg install yarn
 git clone https://github.com/AxelDev09/ZenBot
 cd ZenBot
 yarn install
-yarn start
+pip install -U yt-dlp
+npm start
 ```
 
 ## 🚀 Próximamente
