@@ -60,10 +60,27 @@ npm start
 ```bash
 rm -rf session
 ```
+## Si quietes instalar ZenBot en el directorio de tu dispositivo, nomás sigue estos pasos:
 
-## 🚀 Próximamente
+Lo primero de lo primero. Necesitas darle permiso a termux con:
+```bash
+termux-setup-storage
+```
+> Si por acaso ese comando no funciona, intenta darle los permisos manualmente (Permisos de acceso al directorio).
 
-¡ZenBot sigue evolucionando! Estamos trabajando en nuevas funcionalidades para hacer de tu experiencia aún más completa y divertida.
+## Instala las demas comando. Siempre dar [y] con enter.
+
+```bash
+pkg update && pkg upgrade
+pkg install -y git nodejs ffmpeg imagemagick python
+pkg install yarn
+cd /sdcard/LaRutaDeTuArchivo/ZenBot
+yarn install
+pip install -U yt-dlp
+npm start
+```
+> Y listo, este proceso lo podes hacer igual con el que esta arriba.
+> Si tenés algún problema en instalar ZenBot, escribeme en el número que dejé más arriba. ¡Buena suerte!
 
 ⭐ ¿Te gusta ZenBot?
 
