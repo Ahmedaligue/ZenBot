@@ -55,7 +55,7 @@ pip install -U yt-dlp
 npm start
 ```
 
-## En caso de que la sesión se cierre borra los datos de la sesión anterior con:
+## En caso de que la sesión se cierre, borra los datos de la sesión anterior con:
 
 ```bash
 rm -rf session
