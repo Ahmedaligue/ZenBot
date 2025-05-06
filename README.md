@@ -55,6 +55,12 @@ pip install -U yt-dlp
 npm start
 ```
 
+## En caso de que la sesión se cierre borra los datos de la sesión anterior con:
+
+```bash
+rm -rf session
+```
+
 ## 🚀 Próximamente
 
 ¡ZenBot sigue evolucionando! Estamos trabajando en nuevas funcionalidades para hacer de tu experiencia aún más completa y divertida.
