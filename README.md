@@ -52,6 +52,7 @@ git clone https://github.com/AxelDev09/ZenBot
 cd ZenBot
 yarn install
 pip install -U yt-dlp
+pip install gdown
 npm start
 ```
 
@@ -77,6 +78,7 @@ pkg install yarn
 cd /sdcard/LaRutaDeTuArchivo/ZenBot
 yarn install
 pip install -U yt-dlp
+pip install gdown
 npm start
 ```
 > Y listo, este proceso lo podes hacer igual con el que esta arriba.
