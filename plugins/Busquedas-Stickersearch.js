@@ -2,7 +2,7 @@ import { stickerSearch } from '../lib/scraping/scraper.js';
 import { stickerBuffer } from '../lib/sticker.js';
 
 export default {
-  command: ['stickersearch', 'buscarstickers' 'stickers', 'stickerpack'],
+  command: ['stickersearch', 'buscarstickers', 'stickers', 'stickerpack'],
   help: ['𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂𝙴𝙰𝚁𝙲𝙷 <𝚗𝚘𝚖𝚋𝚛𝚎>'],
   tags: ['🔍 𝗕𝗨́𝗦𝗤𝗨𝗘𝗗𝗔𝗦'],
 
