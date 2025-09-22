@@ -1,9 +1,9 @@
 export const config = {
   prefixes: ["/", ".", "#", "!"],
-  owner: '5493772455367',
-  botName: 'ZenBot',
-  ownerName: 'AxelDev',
-  instagram: 'https://www.instagram.com/_axel.vega',
-  github: 'https://github.com/AxelDev09/ZenBot',
-  atom: 'https://www.atom.bio/zenbot',
+  owner: '212625457341',
+  botName: '『ZHAWFUN BOT』•ᴮᴬᴰʙᴏʏツ',
+  ownerName: '🍿🎥✮⋆˙ AHMED ALIGUE °🥂⋆.ೃ🍾࿔*:･',
+  instagram: 'https://www.instagram.com/g_boy072',
+  github: 'https://github.com/Ahmedaligue/ZenBot',
+  atom: 'https://www.atom.bio/ahmedaligue',
 };
